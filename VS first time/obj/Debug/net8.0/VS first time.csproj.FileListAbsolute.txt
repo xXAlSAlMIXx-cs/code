@@ -1,0 +1,14 @@
+C:\Users\ASUS TUF\Desktop\Learning\C#\code\VS first time\bin\Debug\net8.0\VS first time.exe
+C:\Users\ASUS TUF\Desktop\Learning\C#\code\VS first time\bin\Debug\net8.0\VS first time.deps.json
+C:\Users\ASUS TUF\Desktop\Learning\C#\code\VS first time\bin\Debug\net8.0\VS first time.runtimeconfig.json
+C:\Users\ASUS TUF\Desktop\Learning\C#\code\VS first time\bin\Debug\net8.0\VS first time.dll
+C:\Users\ASUS TUF\Desktop\Learning\C#\code\VS first time\bin\Debug\net8.0\VS first time.pdb
+C:\Users\ASUS TUF\Desktop\Learning\C#\code\VS first time\obj\Debug\net8.0\VS first time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS TUF\Desktop\Learning\C#\code\VS first time\obj\Debug\net8.0\VS first time.AssemblyInfoInputs.cache
+C:\Users\ASUS TUF\Desktop\Learning\C#\code\VS first time\obj\Debug\net8.0\VS first time.AssemblyInfo.cs
+C:\Users\ASUS TUF\Desktop\Learning\C#\code\VS first time\obj\Debug\net8.0\VS first time.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF\Desktop\Learning\C#\code\VS first time\obj\Debug\net8.0\VS first time.dll
+C:\Users\ASUS TUF\Desktop\Learning\C#\code\VS first time\obj\Debug\net8.0\refint\VS first time.dll
+C:\Users\ASUS TUF\Desktop\Learning\C#\code\VS first time\obj\Debug\net8.0\VS first time.pdb
+C:\Users\ASUS TUF\Desktop\Learning\C#\code\VS first time\obj\Debug\net8.0\VS first time.genruntimeconfig.cache
+C:\Users\ASUS TUF\Desktop\Learning\C#\code\VS first time\obj\Debug\net8.0\ref\VS first time.dll
